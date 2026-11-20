@@ -12,6 +12,10 @@ A total conversion project that rebuilds the three-game arcade structure of *Die
 [![Die Hard: Nakatomi Plaza (2002) - PC Gameplay 4k 2160p / Win 10](https://img.youtube.com/vi/_u7VVN11oyE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?X3U3VlZOMTFveUU)
 
 ## Reference Links
+[https://archive.org/details/Die_Hard_Nakatomi_Plaza_USA](https://archive.org/details/Die_Hard_Nakatomi_Plaza_USA)
+
+[https://archive.org/details/die-hard-trilogy.-7z](https://archive.org/details/die-hard-trilogy.-7z)
+
 [![Die Hard: Nakatomi Plaza Editing Package](https://media.moddb.com/images/members/5/4014/4013508/profilenolf/009.png)](https://www.moddb.com/games/die-hard-nakatomi-plaza/downloads/die-hard-nakatomi-plaza-editing-package)
 
 [![How to make custom levels for Die Hard: Nakatomi Plaza](https://media.moddb.com/images/members/5/4014/4013508/profilenolf/004.png)](https://www.moddb.com/games/die-hard-nakatomi-plaza/tutorials/how-to-make-custom-levels-for-die-hard-nakatomi-plaza)
