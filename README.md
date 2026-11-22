@@ -20,7 +20,7 @@ A total conversion project that rebuilds the three-game arcade structure of *Die
 
 [![How to make custom levels for Die Hard: Nakatomi Plaza](https://media.moddb.com/images/members/5/4014/4013508/profilenolf/004.png)](https://www.moddb.com/games/die-hard-nakatomi-plaza/tutorials/how-to-make-custom-levels-for-die-hard-nakatomi-plaza)
 
-[https://media.moddb.com/cache/images/downloads/1/283/282570/thumb_620x2000/Untitled.png](https://media.moddb.com/cache/images/downloads/1/283/282570/thumb_620x2000/Untitled.png)
+[![lithtech-engine-nakatomi-plaza](https://raw.githubusercontent.com/igiteam/die-hard-nakatomi-plaza-die-hard-trilogy/refs/heads/main/lithtech-engine-die-hard-nakatomi-plaza.png)](https://raw.githubusercontent.com/igiteam/die-hard-nakatomi-plaza-die-hard-trilogy/refs/heads/main/lithtech-engine-die-hard-nakatomi-plaza.png)
 
 [![Die Hard Trilogy PSX](https://img.youtube.com/vi/X4wulMtgLWc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?WDR3dWxNdGdMV2M)
 
