@@ -22,7 +22,7 @@ A total conversion project that rebuilds the three-game arcade structure of *Die
 
 [https://media.moddb.com/cache/images/downloads/1/283/282570/thumb_620x2000/Untitled.png](https://media.moddb.com/cache/images/downloads/1/283/282570/thumb_620x2000/Untitled.png)
 
-[![PS1 First Look [103] | Die Hard Trilogy (US) (1996) | 4K60ᶠᵖˢ](https://img.youtube.com/vi/X4wulMtgLWc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?WDR3dWxNdGdMV2M)
+[![Die Hard Trilogy PSX](https://img.youtube.com/vi/X4wulMtgLWc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?WDR3dWxNdGdMV2M)
 
 [![Michael Kamen - Wild Percussion](https://img.youtube.com/vi/LCAwcWt1F-E/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TENBd2NXdDFGLUU)
 
